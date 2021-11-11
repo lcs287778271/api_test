@@ -1,0 +1,48 @@
+INFO:root:hello 51zxw
+WARNING:root:warning info
+ERROR:root:error info
+CRITICAL:root:critical info
+INFO:root:hello 51zxw
+WARNING:root:warning info
+ERROR:root:error info
+CRITICAL:root:critical info
+2021-10-31 21:10:49,483|INFO|hello 51zxw
+2021-10-31 21:10:49,483|WARNING|warning info
+2021-10-31 21:10:49,483|ERROR|error info
+2021-10-31 21:10:49,483|CRITICAL|critical info
+2021-10-31 21:13:28,010|INFO|hello 51zxw
+2021-10-31 21:13:28,010|WARNING|warning info
+2021-10-31 21:13:28,010|ERROR|error info
+2021-10-31 21:13:28,010|CRITICAL|critical info
+2021-10-31 21:25:38,522|INFO|hello 51zxw
+2021-10-31 21:25:38,522|WARNING|warning info
+2021-10-31 21:25:38,522|ERROR|error info
+2021-10-31 21:25:38,522|CRITICAL|critical info
+2021-10-31 21:28:28,162|INFO|hello 51zxw
+2021-10-31 21:28:28,162|WARNING|warning info
+2021-10-31 21:28:28,162|ERROR|error info
+2021-10-31 21:28:28,162|CRITICAL|critical info
+2021-10-31 21:30:02,972|INFO|hello 51zxw
+2021-10-31 21:30:02,972|WARNING|warning info
+2021-10-31 21:30:02,972|ERROR|error info
+2021-10-31 21:30:02,972|CRITICAL|critical info
+2021-10-31 21:32:06,893|INFO|hello 51zxw
+2021-10-31 21:32:06,893|WARNING|warning info
+2021-10-31 21:32:06,893|ERROR|error info
+2021-10-31 21:32:06,893|CRITICAL|critical info
+2021-10-31 21:35:43,726|INFO|hello 51zxw
+2021-10-31 21:35:43,726|WARNING|warning info
+2021-10-31 21:35:43,726|ERROR|error info
+2021-10-31 21:35:43,726|CRITICAL|critical info
+2021-10-31 22:44:19,373|INFO|hello 51zxw
+2021-10-31 22:44:19,373|WARNING|warning info
+2021-10-31 22:44:19,373|ERROR|error info
+2021-10-31 22:44:19,373|CRITICAL|critical info
+2021-10-31 22:44:34,467|INFO|hello 51zxw
+2021-10-31 22:44:34,467|WARNING|warning info
+2021-10-31 22:44:34,467|ERROR|error info
+2021-10-31 22:44:34,467|CRITICAL|critical info
+2021-10-31 22:53:09,626|INFO|hello 51zxw
+2021-10-31 22:53:09,626|WARNING|warning info
+2021-10-31 22:53:09,626|ERROR|error info
+2021-10-31 22:53:09,626|CRITICAL|critical info
